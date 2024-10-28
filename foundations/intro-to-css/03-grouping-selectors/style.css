@@ -1,0 +1,12 @@
+.common{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', 'sans-serif';
+}
+
+.common#first{
+    background-color: hsl(0, 0%, 0%);
+    color: hsl(0, 0%, 100%);
+}
+.common#second{
+    background-color: hsl(60, 100%, 50%);
+}
